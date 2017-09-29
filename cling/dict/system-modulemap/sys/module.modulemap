@@ -1,0 +1,1 @@
+module fakeSysModule [system] { header "fakeSystemHeader.h" export * }
